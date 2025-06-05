@@ -37,9 +37,4 @@ This project explores the application of **Quantum Convolutional Neural Networks
 
 > 📥 Download dataset: [ImageNet ILSVRC2012](https://www.image-net.org/)
 
-## ⚙️ Installation & Usage
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/qcnn-dog-breed-classification.git
-   cd qcnn-dog-breed-classification
